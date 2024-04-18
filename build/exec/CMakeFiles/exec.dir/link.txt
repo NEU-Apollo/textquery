@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/exec.dir/main.cpp.o -o ../../bin/exec   -L/home/wsy/cpp/textquery/lib  -Wl,-rpath,/home/wsy/cpp/textquery/lib ../../lib/libstatic_lib.a 
