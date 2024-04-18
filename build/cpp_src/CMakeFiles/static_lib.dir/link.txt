@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libstatic_lib.a CMakeFiles/static_lib.dir/AndQuery.cpp.o CMakeFiles/static_lib.dir/NotQuery.cpp.o CMakeFiles/static_lib.dir/OrQuery.cpp.o CMakeFiles/static_lib.dir/Query.cpp.o CMakeFiles/static_lib.dir/QueryResult.cpp.o CMakeFiles/static_lib.dir/TextQuery.cpp.o
+/usr/bin/ranlib ../../lib/libstatic_lib.a

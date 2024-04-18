@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/AndQuery.cpp.o -c /home/wsy/cpp/textquery/cpp_src/AndQuery.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/AndQuery.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/NotQuery.cpp.o -c /home/wsy/cpp/textquery/cpp_src/NotQuery.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/NotQuery.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/OrQuery.cpp.o -c /home/wsy/cpp/textquery/cpp_src/OrQuery.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/OrQuery.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/Query.cpp.o -c /home/wsy/cpp/textquery/cpp_src/Query.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/Query.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/QueryResult.cpp.o -c /home/wsy/cpp/textquery/cpp_src/QueryResult.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/QueryResult.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/cpp_src",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/static_lib.dir/TextQuery.cpp.o -c /home/wsy/cpp/textquery/cpp_src/TextQuery.cpp",
+  "file": "/home/wsy/cpp/textquery/cpp_src/TextQuery.cpp"
+},
+{
+  "directory": "/home/wsy/cpp/textquery/build/exec",
+  "command": "/usr/bin/g++  -I/home/wsy/cpp/textquery/include -g -o CMakeFiles/exec.dir/main.cpp.o -c /home/wsy/cpp/textquery/exec/main.cpp",
+  "file": "/home/wsy/cpp/textquery/exec/main.cpp"
+}
+]

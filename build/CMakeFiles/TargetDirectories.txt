@@ -1,0 +1,14 @@
+/home/wsy/cpp/textquery/build/CMakeFiles/package.dir
+/home/wsy/cpp/textquery/build/CMakeFiles/package_source.dir
+/home/wsy/cpp/textquery/build/CMakeFiles/edit_cache.dir
+/home/wsy/cpp/textquery/build/CMakeFiles/rebuild_cache.dir
+/home/wsy/cpp/textquery/build/cpp_src/CMakeFiles/static_lib.dir
+/home/wsy/cpp/textquery/build/cpp_src/CMakeFiles/package.dir
+/home/wsy/cpp/textquery/build/cpp_src/CMakeFiles/package_source.dir
+/home/wsy/cpp/textquery/build/cpp_src/CMakeFiles/edit_cache.dir
+/home/wsy/cpp/textquery/build/cpp_src/CMakeFiles/rebuild_cache.dir
+/home/wsy/cpp/textquery/build/exec/CMakeFiles/exec.dir
+/home/wsy/cpp/textquery/build/exec/CMakeFiles/package.dir
+/home/wsy/cpp/textquery/build/exec/CMakeFiles/package_source.dir
+/home/wsy/cpp/textquery/build/exec/CMakeFiles/edit_cache.dir
+/home/wsy/cpp/textquery/build/exec/CMakeFiles/rebuild_cache.dir

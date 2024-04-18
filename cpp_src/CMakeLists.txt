@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(STATIC_LIB)
+aux_source_directory(./ SRC)
+message("cpp file")
+message(${SRC})
+include_directories(${HEADER_PATH})
+set(LIBRARY_OUTPUT_PATH ${LIB_PATH})
+add_library(${STATIC_LIB} STATIC ${SRC})
