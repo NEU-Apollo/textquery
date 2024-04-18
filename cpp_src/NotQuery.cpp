@@ -17,5 +17,6 @@ QueryResult NotQuery::eval(const TextQuery &text) const
       beg++;
     }
   }
+
   return QueryResult(rep(), ret_lines, result.get_file());
 }
